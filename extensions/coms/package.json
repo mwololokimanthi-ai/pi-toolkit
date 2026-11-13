@@ -1,0 +1,7 @@
+{
+  "name": "pi-coms-extension",
+  "private": true,
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.0"
+  }
+}
